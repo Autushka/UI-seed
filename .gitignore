@@ -4,3 +4,4 @@ node_modules
 typings
 .idea
 changelog.md
+src/**/*.js
