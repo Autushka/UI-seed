@@ -1,0 +1,6 @@
+src/build
+index.html
+node_modules
+typings
+.idea
+changelog.md
