@@ -5,3 +5,4 @@ typings
 .idea
 changelog.md
 src/**/*.js
+src/**/*.js.map
