@@ -11,12 +11,12 @@ module.exports = {
             'node_modules/systemjs/dist/system.src.js',
             'systemjs.config.js'
         ],
-        dest: 'src/build/js'
+        dest: 'src/build/js/'
     },
     libcss: {
         src: [
             'node_modules/bootstrap/dist/css/bootstrap.min.css'
         ],
-        dest: 'src/build/css'
+        dest: 'src/build/css/'
     }
 };
